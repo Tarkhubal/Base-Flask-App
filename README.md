@@ -22,4 +22,4 @@ ADMIN_PASSWORD=yesitsapassword
 ADMIN_EMAIL=gigaadmin@madebyafrench.fr
 ```
 
-License : MIT (c) Thomas BLANC 2025
+License : MIT (c) Thomas BLANC 2025 <thb5309gmail.com>
